@@ -8,6 +8,7 @@ public class SeleniumAppTest {
 	public void demo()
 	{
 		System.out.println("print alln=hhsd");
+		System.out.println("shiva");
 	}
 
 	@Test
