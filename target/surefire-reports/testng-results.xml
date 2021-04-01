@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="20797" started-at="2021-03-25T11:12:31Z" finished-at="2021-03-25T11:12:52Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="20797" started-at="2021-03-25T11:12:31Z" finished-at="2021-03-25T11:12:52Z">
+      <class name="qaclickacademy.MavenJava.SeleniumAppTest">
+        <test-method status="PASS" signature="demo()[pri:0, instance:qaclickacademy.MavenJava.SeleniumAppTest@1a407d53]" name="demo" duration-ms="12" started-at="2021-03-25T11:12:52Z" finished-at="2021-03-25T11:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="demo1()[pri:0, instance:qaclickacademy.MavenJava.SeleniumAppTest@1a407d53]" name="demo1" duration-ms="1" started-at="2021-03-25T11:12:52Z" finished-at="2021-03-25T11:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+      </class> <!-- qaclickacademy.MavenJava.SeleniumAppTest -->
+      <class name="qaclickacademy.MavenJava.APITest">
+        <test-method status="PASS" signature="config()[pri:0, instance:qaclickacademy.MavenJava.APITest@3498ed]" name="config" is-config="true" duration-ms="473" started-at="2021-03-25T11:12:31Z" finished-at="2021-03-25T11:12:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="demo2()[pri:0, instance:qaclickacademy.MavenJava.APITest@3498ed]" name="demo2" duration-ms="20293" started-at="2021-03-25T11:12:31Z" finished-at="2021-03-25T11:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+      </class> <!-- qaclickacademy.MavenJava.APITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
