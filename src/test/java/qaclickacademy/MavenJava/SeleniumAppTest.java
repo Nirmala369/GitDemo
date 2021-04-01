@@ -8,11 +8,14 @@ public class SeleniumAppTest {
 	public void demo()
 	{
 		System.out.println("print alln=hhsd");
+		System.out.println("shiva");
+		System.out.println("rudru");
 	}
 
 	@Test
 	public void demo1()
 	{
 		System.out.println("print adfgfglln=hhsd");
+		System.out.println("rudru");
 	}
 }
