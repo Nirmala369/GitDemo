@@ -10,6 +10,7 @@ public class SeleniumAppTest {
 		System.out.println("print alln=hhsd");
 		System.out.println("shiva");
 		System.out.println("rudru");
+		System.out.println("nim");
 	}
 
 	@Test
@@ -17,5 +18,16 @@ public class SeleniumAppTest {
 	{
 		System.out.println("print adfgfglln=hhsd");
 		System.out.println("rudru");
+		System.out.println("nim");
+	}
+	
+	@Test
+	public void demo2()
+	{
+		System.out.println("print adfgfglln=hhsd");
+		System.out.println("rudru");
+		System.out.println("nim");
+		System.out.println("rudru");
+		System.out.println("nim");
 	}
 }
